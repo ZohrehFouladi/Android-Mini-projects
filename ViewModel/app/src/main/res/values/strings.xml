@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewModel</string>
+    <string name="number">Number</string>
+    <string name="click_here">Click Here</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="textview">TextView</string>
+</resources>
